@@ -1,0 +1,65 @@
+.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+.divider{
+    /*padding: 20px;*/
+    margin: 1px;
+}
+
+
+.logo{
+    height: 61px;
+    width: 61px;
+}
+
+body{
+    background-color: #6800F7;
+    padding-top: 25px;
+    width: 90%;
+    min-width: 900px;
+
+    max-width: 1600px;
+    margin: auto;
+    position: relative;
+}
+
+
+a.nav {
+    color: #6800F7;
+    font-size: 24px;
+    /*padding-left: 69px;*/
+    text-shadow: 2px 2px #15E900"
+}
+
+a.account{
+    color: #6800F7;
+    font-size: 14px;
+    /*padding-left: 69px;*/
+    text-shadow: 2px 2px #15E900"
+}
+
+.deactive {
+    display: none;
+}
+
+.btn {
+    font-weight: bold;
+    color: #6800F7;
+    border: 2px solid #f44336;
+
+}
+
+.stage {
+    min-height:500px;
+}
+
+.snippet {
+    min-height: 500px;
+}
+
+.content {
+    min-height: 500px;
+}
